@@ -1,0 +1,2 @@
+include ':roboping'
+rootProject.name = "RoboPing"
